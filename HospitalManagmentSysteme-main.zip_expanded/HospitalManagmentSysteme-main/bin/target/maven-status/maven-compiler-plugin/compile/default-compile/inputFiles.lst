@@ -1,0 +1,16 @@
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\dao\PatientDAO.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\dao\UserDAO.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\model\LabResult.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\model\Patient.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\model\User.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\AddLabResultServlet.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\AddPatientServlet.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\DeletePatientServlet.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\DisplayLabResultsServlet.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\DoctorDashboard.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\EditPatientServlet.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\LoginServeletes.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\LogoutServlet.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\PatientDashboardServelete.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\RegisterServlet.java
+C:\Users\busines\eclips-project\HospitalManaging\src\main\java\com\hms\servelets\UpdatePatientServlet.java
