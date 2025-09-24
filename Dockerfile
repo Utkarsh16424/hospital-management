@@ -1,13 +1,13 @@
-# Use Tomcat base image
-FROM tomcat:9.0.109-jdk17
+# Use official Tomcat 10 + JDK 17 image
+FROM tomcat:10.1-jdk17
 
-# Remove default ROOT
+# Remove default webapps
 RUN rm -rf /usr/local/tomcat/webapps/*
 
-# Copy your WAR file to Tomcat webapps
-COPY target/HospitalManagementSysteme.war /usr/local/tomcat/webapps/ROOT.war
+# Copy WAR file into Tomcat ROOT
+COPY target/HospitalManagmentSysteme-0.0.1-SNAPSHOT.war /usr/local/tomcat/webapps/ROOT.war
 
-# Expose Tomcat port
+# Expose port 8080
 EXPOSE 8080
 
 # Start Tomcat
