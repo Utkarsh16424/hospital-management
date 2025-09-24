@@ -94,6 +94,13 @@
       <scope>provided</scope>
     </dependency>
 
+    <dependency>
+    <groupId>io.github.cdimascio</groupId>
+    <artifactId>java-dotenv</artifactId>
+    <version>5.2.2</version>
+</dependency>
+
+
     <!-- JSP API -->
     <dependency>
       <groupId>javax.servlet.jsp</groupId>
@@ -124,3 +131,4 @@
     </dependency>
   </dependencies>
 </project>
+
